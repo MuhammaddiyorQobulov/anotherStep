@@ -1,0 +1,22 @@
+{
+  "name": "folder-muhammaddiyor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammaddiyorQobulov/anotherStep.git"
+  },
+  "keywords": [
+    "Muhammaddiyor"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammaddiyorQobulov/anotherStep/issues"
+  },
+  "homepage": "https://github.com/MuhammaddiyorQobulov/anotherStep#readme"
+}
